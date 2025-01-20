@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## Progress
 - Total Problems Solved: 0
-- Easy: 1
+- Easy: 3
 - Medium: 0
 - Hard: 0
 
