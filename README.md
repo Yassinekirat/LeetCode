@@ -6,8 +6,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 - Time/Space complexity analysis
 
 ## Progress
-- Total Problems Solved: 0
-- Easy: 7
+- Total Problems Solved: 7
+- Easy: 8
 - Medium: 0
 - Hard: 0
 
